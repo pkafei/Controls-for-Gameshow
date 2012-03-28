@@ -1,0 +1,6 @@
+                                      ****  README   ****
+
+
+This is one of my first programs. It is a simple GUI of a gameshow control panel. There is a right button and a wrong button. In order to properly use this script you must import the 'tkinter' and 'pygame' library. 
+
+Good Luck
